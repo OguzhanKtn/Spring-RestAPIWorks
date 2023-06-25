@@ -10,6 +10,9 @@
 - Spring Web
 - Lombok
 - JPA
+- JpaAuditing
+- RestTemplate
+- HttpEntity
 - Validation
 - Projection
 - Pagination
